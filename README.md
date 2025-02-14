@@ -1,4 +1,6 @@
 # Mass-to-Formula
 An app that converts Exact Mass measured by HRMS etc. into chemical formulas.
 
-python 3.9
+python == 3.9
+
+app.pyで実行
