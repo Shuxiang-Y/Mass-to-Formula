@@ -63,6 +63,19 @@ json5 @ file:///home/conda/feedstock_root/build_artifacts/json5_1733272076743/wo
 jsonpointer @ file:///D:/bld/jsonpointer_1725302964849/work
 jsonschema @ file:///home/conda/feedstock_root/build_artifacts/jsonschema_1733472696581/work
 jsonschema-specifications @ file:///tmp/tmpk0f344m9/src
+jupyter-events @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_jupyter_events_1738765986/work
+jupyter-lsp @ file:///home/conda/feedstock_root/build_artifacts/jupyter-lsp-meta_1733492907176/work/jupyter-lsp
+jupyter_client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1733440914442/work
+jupyter_core @ file:///D:/bld/jupyter_core_1727163532151/work
+jupyter_server @ file:///home/conda/feedstock_root/build_artifacts/jupyter_server_1734702637701/work
+jupyter_server_terminals @ file:///home/conda/feedstock_root/build_artifacts/jupyter_server_terminals_1733427956852/work
+jupyterlab @ file:///home/conda/feedstock_root/build_artifacts/jupyterlab_1738184697351/work
+jupyterlab-language-pack-ja-JP @ file:///home/conda/feedstock_root/build_artifacts/jupyterlab-language-pack-ja-jp_1738056103298/work/ja-JP
+jupyterlab-lsp @ file:///home/conda/feedstock_root/build_artifacts/jupyter-lsp-meta_1733492907176/work/jupyterlab-lsp
+jupyterlab_code_formatter @ file:///home/conda/feedstock_root/build_artifacts/jupyterlab_code_formatter_1736716935680/work
+jupyterlab_pygments @ file:///home/conda/feedstock_root/build_artifacts/jupyterlab_pygments_1733328101776/work
+jupyterlab_server @ file:///home/conda/feedstock_root/build_artifacts/jupyterlab_server_1733599573484/work
+jupyterlab_widgets @ file:///home/conda/feedstock_root/build_artifacts/jupyterlab_widgets_1733428046021/work
 kiwisolver @ file:///D:/bld/kiwisolver_1725459303250/work
 markdown-it-py==3.0.0
 MarkupSafe @ file:///D:/bld/markupsafe_1733219648915/work
@@ -102,6 +115,7 @@ protobuf==5.29.3
 psutil @ file:///D:/bld/psutil_1735327349053/work
 pure_eval @ file:///home/conda/feedstock_root/build_artifacts/pure_eval_1733569405015/work
 py-cpuinfo @ file:///home/conda/feedstock_root/build_artifacts/py-cpuinfo_1733236359728/work
+py3Dmol @ file:///home/conda/feedstock_root/build_artifacts/py3dmol_1734684868989/work
 pyarrow==19.0.0
 pycodestyle @ file:///home/conda/feedstock_root/build_artifacts/pycodestyle_1733216196861/work
 pycparser @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_pycparser_1733195786/work
@@ -128,6 +142,7 @@ PyYAML @ file:///D:/bld/pyyaml_1737454672828/work
 pyzmq @ file:///D:/bld/pyzmq_1738271006796/work
 qcelemental @ file:///home/conda/feedstock_root/build_artifacts/qcelemental_1736795728338/work
 qcengine @ file:///home/conda/feedstock_root/build_artifacts/qcengine_1737140143464/work
+rdkit==2024.9.5
 referencing @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_referencing_1737836872/work
 requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1733217035951/work
 rfc3339_validator @ file:///home/conda/feedstock_root/build_artifacts/rfc3339-validator_1733599910982/work
@@ -135,6 +150,8 @@ rfc3986-validator @ file:///home/conda/feedstock_root/build_artifacts/rfc3986-va
 rich==13.9.4
 rope @ file:///home/conda/feedstock_root/build_artifacts/rope_1733342323938/work
 rpds-py @ file:///D:/bld/rpds-py_1733366654357/work
+scikit-learn==1.6.1
+scipy @ file:///C:/bld/scipy-split_1716470385682/work/dist/scipy-1.13.1-cp39-cp39-win_amd64.whl#sha256=490e922ef930c40e74290d95915a98295b9059d02849059317bab82ba7810581
 Send2Trash @ file:///D:/bld/send2trash_1733322089150/work
 sip @ file:///D:/bld/sip_1697300548918/work
 six @ file:///home/conda/feedstock_root/build_artifacts/six_1733380938961/work
